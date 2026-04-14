@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Optional: uncomment to hide .php extensions (match your server rules)
+# RewriteRule ^upload$ upload.php [L,QSA]
